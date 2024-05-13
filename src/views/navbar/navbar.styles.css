@@ -1,0 +1,26 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 0;
+}
+
+.navbar-menu{
+    display: flex;
+    gap: 30px;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 28px;
+    text-align: center;
+}
+
+.navbar-button{
+font-size: 16px;
+font-weight: 300;
+line-height: 28px;
+text-align: center;
+    color: white;
+    padding: 11px 27px;
+    background-color: #FD695A;
+    border-radius: 50px;
+}
