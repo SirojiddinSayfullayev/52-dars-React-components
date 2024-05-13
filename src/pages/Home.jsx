@@ -4,6 +4,7 @@ import Products from "../views/home/products/Products";
 import Contacts from "../views/home/contacts/Contacts";
 import Navbar from "../views/navbar/Navbar";
 import Footer from "../views/footer/Footer";
+import OurClients from "../views/home/ourClients/OurClients";
 
 function Home() {
   return (
@@ -16,6 +17,8 @@ function Home() {
       <Products />
 
       <Contacts />
+
+      <OurClients />
 
       <Footer />
     </div>

@@ -1,0 +1,19 @@
+.clients-title{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22.59px;
+    text-align: left;
+    color: #3D3D3F;
+    text-align: center;
+    margin: 30px 0;
+}
+
+.client-icons{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 20px;
+}
+
+.client-icons-item{
+    text-align: center;
+}
